@@ -67,13 +67,14 @@ The script will output a contribution report in tabular format displaying:
 ## Example Output
 
 +--------------+----------+---------------+--------------+---------------+
+
 | User | Commits | Files Changed | Lines Added | Lines Deleted |
+
 +--------------+----------+---------------+--------------+---------------+
+
 | github_user1 | 5 | 12 | 150 | 20 |
+
 | github_user2 | 3 | 8 | 95 | 10 |
+
 +--------------+----------+---------------+--------------+---------------+
 
-
----
-
-This completes the report generation setup and usage. Additional integration with Slack or email can be added separately.
